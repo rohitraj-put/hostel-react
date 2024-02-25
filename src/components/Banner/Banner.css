@@ -1,0 +1,14 @@
+.banner {
+    font-size: 14px;
+    line-height: 1.42857143;
+    color: #333;
+    font-family: 'Baloo Tamma 2', cursive;
+    box-sizing: border-box;
+    height: 300px;
+    background-image: url(https://img.freepik.com/free-vector/flat-students-dormitory-room-preparing-exams_88138-1043.jpg?t=st=1708847846~exp=1708851446~hmac=42614f3df4a6ad464ae0456faabbc499f4e5f99256dd67e3860135d7be2db540&w=1380);
+    background-size: cover;
+    background-position: center;
+    margin-bottom: 25px;
+    background-repeat: no-repeat;
+
+}
