@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/hostel-react/static/css/main.24333c42.css",
+    "main.js": "/hostel-react/static/js/main.5ed19a15.js",
+    "static/media/slider (3).jpg": "/hostel-react/static/media/slider (3).53a68fda38a97585ab59.jpg",
+    "static/media/slider (2).jpg": "/hostel-react/static/media/slider (2).ce4ef39426e3fd20d369.jpg",
+    "static/media/home.ico": "/hostel-react/static/media/home.f2d7d302d05ab93dad9b.ico",
+    "static/media/games.ico": "/hostel-react/static/media/games.976d2b2534896608f6e0.ico",
+    "static/media/wifi.ico": "/hostel-react/static/media/wifi.be8de2fa8b1a891843b2.ico",
+    "static/media/fitness-gym.ico": "/hostel-react/static/media/fitness-gym.1d06ecd536c326e95100.ico",
+    "static/media/books.ico": "/hostel-react/static/media/books.08ecee00ecac55e847dd.ico",
+    "static/media/chopping-board-and-knife.ico": "/hostel-react/static/media/chopping-board-and-knife.aca097b3dcebc3b6abaa.ico",
+    "index.html": "/hostel-react/index.html",
+    "main.24333c42.css.map": "/hostel-react/static/css/main.24333c42.css.map",
+    "main.5ed19a15.js.map": "/hostel-react/static/js/main.5ed19a15.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.24333c42.css",
+    "static/js/main.5ed19a15.js"
+  ]
+}
